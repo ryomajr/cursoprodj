@@ -1,1 +1,3 @@
 desde la pc local
+
+cambio de que se está editando desde el repositorio
